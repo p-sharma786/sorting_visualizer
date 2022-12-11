@@ -1,0 +1,21 @@
+body{
+    background-color: #404258;
+}
+
+#main{
+    margin-left :50px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.bar{
+    display: inline-block;
+    /* background-color: yellow; */
+    /* width: 5px; */
+    border-left: 5px solid yellow;
+    /* border-right: 2px solix yellow; */
+    /* height:100px;  */
+    
+    margin-right: 5px;
+    margin-left: 5px;  
+} 
